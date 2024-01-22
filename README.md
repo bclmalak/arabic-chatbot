@@ -17,6 +17,7 @@ This project involves the conceptualization and implementation of a chatbot usin
 - Dense Layers: Two fully connected layers with ReLU activation and layer normalization.
 - Dropout Layers: Applied to prevent overfitting during training.
 - Output Layer: Dense layer with softmax activation for multiclass classification.
+  
 **Compilation:** The model is compiled using the Adam optimizer and sparse categorical crossentropy loss function, with accuracy as the metric.
 
 ## Technologies Used
